@@ -1,6 +1,6 @@
 package com.example.brightwave;
 
-import static com.example.brightwave.R.id.SignText2;
+import static com.example.brightwave.R.id.SignupText2;
 import static com.example.brightwave.R.id.SignupButton;
 import static com.example.brightwave.R.id.SignupText1;
 import static com.example.brightwave.R.id.SignupText3;
